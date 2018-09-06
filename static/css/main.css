@@ -1,0 +1,12 @@
+#container {
+	border:2px groove black !important;
+	width:30% !important;
+	margin-left:35% !important;
+	margin-top:8% !important;
+	padding-bottom: 1% !important;
+	text-align: center !important;
+	background-color: #afbdd3 !important;
+}
+p{
+    font-size: 25px;
+}
